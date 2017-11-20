@@ -1,0 +1,23 @@
+h1{
+    background-color: lime;
+    color: darkred;
+}
+
+.light-version{
+    background-color: lightcyan;
+    color: green;
+    border: 2px solid gray;
+    width: 400px;
+    min-height: 400px;
+    padding: 30px;
+    margin: 20px;
+}
+.dark-version{
+    background-color: darkgreen;
+    color: lightcyan;
+    border: 2px solid gray;
+    width: 400px;
+    min-height: 400px;
+    padding: 30px;
+    margin: 20px;
+}
